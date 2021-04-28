@@ -16,7 +16,6 @@ int main()
 
     int sumRow[row];
     int sumColumn[column];
-    int result[row][column];
 
     // 配列初期化
     for (int i=0 ; i<row; i++){
