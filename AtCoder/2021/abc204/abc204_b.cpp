@@ -9,7 +9,7 @@ int main() {
     for (int i = 0; i < N; i++) {
         int a;
         cin >> a;
-        if (a > 10){
+        if (a > 10) {
             ans = ans + (a - 10);
         }
     }
